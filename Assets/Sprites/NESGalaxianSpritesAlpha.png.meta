@@ -1,0 +1,2464 @@
+fileFormatVersion: 2
+guid: 00a140c9e863bd5ffb452fc48466575f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 447
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1748762db11e898c0af8710837a6c49d
+      internalID: 714079621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 447
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72936e739f6997839967d240d9b988eb
+      internalID: 237200698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 447
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62a1a8b9d52b9c4dab0d632ee823c9d
+      internalID: -1139456316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 448
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4374cc62e624e9f09c6992b536add27
+      internalID: -10110031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 447
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325fccd3e4717c5ea88114c9979e2330
+      internalID: -935621494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 447
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d16d0959d07da48e8faeb01185f3548
+      internalID: 1803878835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 447
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f0266be9a86a95bbe938cb75b8767a
+      internalID: 214573601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 430
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f131ad100cb954c65b6a39cc341b5375
+      internalID: -637137959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 430
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15216a68ed20d76caa2ba8791b6bfcd6
+      internalID: 1360355288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 430
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c51d4bd6879805ffa475d73a163fb72
+      internalID: 1779040320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 430
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cdfe49f9ddae52183a009bd9d51d76
+      internalID: -461559752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 431
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b953d8c99a04efeb706e24ac7863fa
+      internalID: 765657696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 431
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730eefe8d34b905759690a70c3943bc1
+      internalID: -2004893741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 415
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cde535620515ad5d9630be5e1e6cc8d
+      internalID: 205928044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 414
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bed521b41e5276ca138f8b3b40ff30
+      internalID: 1987702911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 414
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812d70efa2b5066bb9d686fc95239443
+      internalID: 397003620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 413
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1be14f87d13104494ab9cc46c9d31b
+      internalID: -1818311910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 413
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb7ca0b8484c886988f42975f597a42
+      internalID: 211599920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 413
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2295707f28183cdf38ac973a42be96bb
+      internalID: -1702081989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 413
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b7a667cfb24479586c40afae220ce0
+      internalID: 477522405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 396
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bf65b262e2bfd92b5e111488849ce4
+      internalID: -876575613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 396
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fe8d2da6166169fae30e85370b96c5
+      internalID: 216700543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_22
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 396
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cbcd9403994ec6585caa53be101542
+      internalID: 449776010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 397
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0703c88c3226a0c0855743aa1645bf0
+      internalID: 991002695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_24
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 397
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83dedf9b85b89e6d8408e7fcb908c25
+      internalID: -1411704520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_25
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 398
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2e3eb32dc3c709cbc850729c4e2953
+      internalID: 270559359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 385
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115b341174188a0628785cb6f5293d9c
+      internalID: 1521605071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_27
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 385
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d5435c11e52b1e2ba2a06a6051e13f
+      internalID: -1368191448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_28
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 385
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930c7a49a664697e09dbc3014fc29831
+      internalID: -1491924029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 385
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b08589b8f4257ceb96d25919c7b6e34
+      internalID: 798145026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 372
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f13f6d3e3b4e39a894d8c1dade3aa6
+      internalID: 689030753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_31
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 372
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdf7e42b192a229d87e994e6f0b2219
+      internalID: 179996487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_32
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 372
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e203a843ca1994489891261702836e
+      internalID: -354321719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 373
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6977de6577349239c8ab78d3f06a0a
+      internalID: -1617537260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 355
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c4631f8cc6df3c0bab47094609b300
+      internalID: -1737622937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_35
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 354
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a17d23492ece9b60985a0e55cb5e628
+      internalID: -810112676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 354
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ad6eaa2e6a4973894b45b34c0741bc
+      internalID: -1725071381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_37
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 353
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed0eb756421f85cb9a85eb53734f133
+      internalID: -2054531117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 353
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1b964993c99c9298a7f0e50aea2c79
+      internalID: -427322804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_39
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 353
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba6cfe4b0f11bb2681fd4e0149e87c8
+      internalID: -954910447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_40
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 353
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3fc7126b9f69283a9e633e5662f48a
+      internalID: 1882558685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_41
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 336
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea8b6e60d5950b52a41a2f0c67678ed
+      internalID: -2069521556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 336
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cad98ce099755b9c93e784c7e04ed12
+      internalID: -451583473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_43
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 336
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1e3238fe19a83b18b1ee84303b4eb9
+      internalID: 672852563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_44
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 337
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d7457008196b0e48cacb8dbb06e766
+      internalID: 1497076243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_45
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 337
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ec562c85d7b06919f3aebaf69e40e3
+      internalID: 662903723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_46
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 338
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d1df2d6fb51df1aadf935e3ff3f6cf
+      internalID: 1149086235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_47
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 325
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a4246ca97b9d356a4c729769cf23cf
+      internalID: 1917397521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_48
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 325
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61c6f82e86cd06bd942a41fea0a7fa9
+      internalID: 1192850592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_49
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 325
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437e4940e98657cd187ddbc786af86b5
+      internalID: 1148880703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 325
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b1668fc7da02f868263bd12a064110
+      internalID: -246484274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 312
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d567169c04960a340a69385c2cfe0376
+      internalID: -689371133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 312
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eea125aa693b85eda5846c3c533accd
+      internalID: 2066184748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_53
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 312
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8e434713fc8c8c8a07b90d4b9e64d5
+      internalID: -1514720815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_54
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 313
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebd4ee8a4c3bd009861acb0dc55ba16
+      internalID: 262167522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 295
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9b839c2c5f8d01e81dbfb4140e5c07
+      internalID: 1046681698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 294
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39bf3c7b952e9ba784ee7e31ecc6e16
+      internalID: -1652684906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_57
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 294
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7875190e3f4097ab7a59ae37fbedc342
+      internalID: 732701532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_58
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 293
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d89b7e4073575c30bcb53b1f405e39d
+      internalID: 2044055263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_59
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 293
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aee11b4168fb5dc68d0d3b76469aa05
+      internalID: -204111607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_60
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 293
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d161a049d0c608686a614451eeaa8511
+      internalID: -1102038988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_61
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 293
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ce625db821340538fc78567861c51b
+      internalID: -388468419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_62
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 276
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b99f358ec066b109722c041e9eb711
+      internalID: -227514569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_63
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 276
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3e7ce8fcfbde5a584f444fd0f3eba3
+      internalID: -367544236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_64
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 276
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29995db80ec5e0348986d30958b60bb5
+      internalID: 220605527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_65
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 277
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8607e8c754ac65d4f9016563399b26ee
+      internalID: -600565587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_66
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 277
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7099061ec836f9a18aa5bcc9386ce976
+      internalID: 1213454692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_67
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 278
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3c3d2830351b3678b5965a73b32543
+      internalID: -367549679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_68
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 265
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81383882044e341cc882b1e2bb5253b8
+      internalID: -1344314817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_69
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 265
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cea9fb1de752161b76f8696e095b4b
+      internalID: 1966823900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_70
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 265
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24a32cd98a9ab69083d3eb7afe49c36
+      internalID: 519498905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_71
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 265
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54ba02a74c1620e09eae35839e99aca
+      internalID: -1407516435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_72
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 252
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f76fb5a1492eb8897eedbf6f3a36b1
+      internalID: -1445321049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_73
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 252
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9e583f4f1f85c608d32b063be58c66
+      internalID: 1978066149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_74
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 252
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980afdab77133a11eb65a00ea41b314c
+      internalID: 1989024030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_75
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 253
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa9f83862b2fab8b8726a9345856606
+      internalID: -509598024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_76
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 214
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cd3cf96e227cd6aa8c7556ce891a73
+      internalID: -403153097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_77
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 233
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff87206bbcca682e9a83d4934d1a0120
+      internalID: 842222697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_78
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 234
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4e077a834e74079a01d902f6b0407a
+      internalID: -379497137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_79
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 231
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4e3778836ba58c28fea800fc3c2578
+      internalID: -1953250241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_80
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 231
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b523f1f96fcb9e28697aa45db4a4714c
+      internalID: 1252895532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_81
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 231
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8753cf2add32d3d6bbf4bcdeb1500f39
+      internalID: 220426985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_82
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 214
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5b4e0d2e74344568e6043e8a77b80f
+      internalID: -642004996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_83
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 219
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7d53507bcf70b4f8b97dbaa6f8a400
+      internalID: 798768002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_84
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 219
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030f96baea34fffddb0b3e8c497468c9
+      internalID: -2055214677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_85
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 219
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cca8878c21d4d54832af8886f6ee62
+      internalID: -474924544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_86
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 219
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f68280287e6cd3db10d7465f7bdb13
+      internalID: -909792785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 219
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85666aa7974665077a7feacf8d5f0702
+      internalID: -1471997702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_88
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 219
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823cda968c71b1aa3aed3812e313af68
+      internalID: -593488967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_89
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 219
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4619418cf4fe93faa855dccfc3f1fb9
+      internalID: 209184467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_90
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 219
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd53c25d0a7ef650b86880352a83f42
+      internalID: -51774463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_91
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 219
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5159c6e342e19c58e16aab6590cb20
+      internalID: 821791750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_92
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 219
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cb046cd1f474ef6a43f947a157b869
+      internalID: -1916964438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_93
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 219
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b289e557b0121197ba33ac1cdfbd41d
+      internalID: 1249420128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_94
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 214
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b58a8cd4d7e39cf929f4cc51760407
+      internalID: -604389032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_95
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 214
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93878baf636a650c98b09307492b2330
+      internalID: 1201374130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_96
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 183
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b727a351d006f43b42bb7f28e8b816
+      internalID: -1699242017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_97
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 265
+        width: 1
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b688b88cacc3cc78cbc0e79af487cb49
+      internalID: 1023652086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_98
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 182
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36270e009d43c26ec89d86fbe20b168c
+      internalID: -825629716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_100
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 181
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b82b63655dffc9882cb57226354807
+      internalID: -1154348093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_101
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 181
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236aec2d85c89f0bd835b4945c6060b1
+      internalID: -1412454978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_103
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 140
+        width: 136
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e1512b2bc25cab7b09046928239094
+      internalID: 166364065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1157f35f6744c0c8a6b7925a930a025
+      internalID: -98810354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_105
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 231
+        width: 1
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fdc9bbe48018950a1da46b0620e54b
+      internalID: 114510495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NESGalaxianSpritesAlpha_99
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 219
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77782a9ec8ae75d429a5da569c6d9749
+      internalID: -1595659835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NESGalaxianSpritesAlpha_0: 714079621
+      NESGalaxianSpritesAlpha_1: 237200698
+      NESGalaxianSpritesAlpha_10: -461559752
+      NESGalaxianSpritesAlpha_100: -1154348093
+      NESGalaxianSpritesAlpha_101: -1412454978
+      NESGalaxianSpritesAlpha_102: -1826130669
+      NESGalaxianSpritesAlpha_103: 166364065
+      NESGalaxianSpritesAlpha_104: -98810354
+      NESGalaxianSpritesAlpha_105: 114510495
+      NESGalaxianSpritesAlpha_11: 765657696
+      NESGalaxianSpritesAlpha_12: -2004893741
+      NESGalaxianSpritesAlpha_13: 205928044
+      NESGalaxianSpritesAlpha_14: 1987702911
+      NESGalaxianSpritesAlpha_15: 397003620
+      NESGalaxianSpritesAlpha_16: -1818311910
+      NESGalaxianSpritesAlpha_17: 211599920
+      NESGalaxianSpritesAlpha_18: -1702081989
+      NESGalaxianSpritesAlpha_19: 477522405
+      NESGalaxianSpritesAlpha_2: -1139456316
+      NESGalaxianSpritesAlpha_20: -876575613
+      NESGalaxianSpritesAlpha_21: 216700543
+      NESGalaxianSpritesAlpha_22: 449776010
+      NESGalaxianSpritesAlpha_23: 991002695
+      NESGalaxianSpritesAlpha_24: -1411704520
+      NESGalaxianSpritesAlpha_25: 270559359
+      NESGalaxianSpritesAlpha_26: 1521605071
+      NESGalaxianSpritesAlpha_27: -1368191448
+      NESGalaxianSpritesAlpha_28: -1491924029
+      NESGalaxianSpritesAlpha_29: 798145026
+      NESGalaxianSpritesAlpha_3: -10110031
+      NESGalaxianSpritesAlpha_30: 689030753
+      NESGalaxianSpritesAlpha_31: 179996487
+      NESGalaxianSpritesAlpha_32: -354321719
+      NESGalaxianSpritesAlpha_33: -1617537260
+      NESGalaxianSpritesAlpha_34: -1737622937
+      NESGalaxianSpritesAlpha_35: -810112676
+      NESGalaxianSpritesAlpha_36: -1725071381
+      NESGalaxianSpritesAlpha_37: -2054531117
+      NESGalaxianSpritesAlpha_38: -427322804
+      NESGalaxianSpritesAlpha_39: -954910447
+      NESGalaxianSpritesAlpha_4: -935621494
+      NESGalaxianSpritesAlpha_40: 1882558685
+      NESGalaxianSpritesAlpha_41: -2069521556
+      NESGalaxianSpritesAlpha_42: -451583473
+      NESGalaxianSpritesAlpha_43: 672852563
+      NESGalaxianSpritesAlpha_44: 1497076243
+      NESGalaxianSpritesAlpha_45: 662903723
+      NESGalaxianSpritesAlpha_46: 1149086235
+      NESGalaxianSpritesAlpha_47: 1917397521
+      NESGalaxianSpritesAlpha_48: 1192850592
+      NESGalaxianSpritesAlpha_49: 1148880703
+      NESGalaxianSpritesAlpha_5: 1803878835
+      NESGalaxianSpritesAlpha_50: -246484274
+      NESGalaxianSpritesAlpha_51: -689371133
+      NESGalaxianSpritesAlpha_52: 2066184748
+      NESGalaxianSpritesAlpha_53: -1514720815
+      NESGalaxianSpritesAlpha_54: 262167522
+      NESGalaxianSpritesAlpha_55: 1046681698
+      NESGalaxianSpritesAlpha_56: -1652684906
+      NESGalaxianSpritesAlpha_57: 732701532
+      NESGalaxianSpritesAlpha_58: 2044055263
+      NESGalaxianSpritesAlpha_59: -204111607
+      NESGalaxianSpritesAlpha_6: 214573601
+      NESGalaxianSpritesAlpha_60: -1102038988
+      NESGalaxianSpritesAlpha_61: -388468419
+      NESGalaxianSpritesAlpha_62: -227514569
+      NESGalaxianSpritesAlpha_63: -367544236
+      NESGalaxianSpritesAlpha_64: 220605527
+      NESGalaxianSpritesAlpha_65: -600565587
+      NESGalaxianSpritesAlpha_66: 1213454692
+      NESGalaxianSpritesAlpha_67: -367549679
+      NESGalaxianSpritesAlpha_68: -1344314817
+      NESGalaxianSpritesAlpha_69: 1966823900
+      NESGalaxianSpritesAlpha_7: -637137959
+      NESGalaxianSpritesAlpha_70: 519498905
+      NESGalaxianSpritesAlpha_71: -1407516435
+      NESGalaxianSpritesAlpha_72: -1445321049
+      NESGalaxianSpritesAlpha_73: 1978066149
+      NESGalaxianSpritesAlpha_74: 1989024030
+      NESGalaxianSpritesAlpha_75: -509598024
+      NESGalaxianSpritesAlpha_76: -403153097
+      NESGalaxianSpritesAlpha_77: 842222697
+      NESGalaxianSpritesAlpha_78: -379497137
+      NESGalaxianSpritesAlpha_79: -1953250241
+      NESGalaxianSpritesAlpha_8: 1360355288
+      NESGalaxianSpritesAlpha_80: 1252895532
+      NESGalaxianSpritesAlpha_81: 220426985
+      NESGalaxianSpritesAlpha_82: -642004996
+      NESGalaxianSpritesAlpha_83: 798768002
+      NESGalaxianSpritesAlpha_84: -2055214677
+      NESGalaxianSpritesAlpha_85: -474924544
+      NESGalaxianSpritesAlpha_86: -909792785
+      NESGalaxianSpritesAlpha_87: -1471997702
+      NESGalaxianSpritesAlpha_88: -593488967
+      NESGalaxianSpritesAlpha_89: 209184467
+      NESGalaxianSpritesAlpha_9: 1779040320
+      NESGalaxianSpritesAlpha_90: -51774463
+      NESGalaxianSpritesAlpha_91: 821791750
+      NESGalaxianSpritesAlpha_92: -1916964438
+      NESGalaxianSpritesAlpha_93: 1249420128
+      NESGalaxianSpritesAlpha_94: -604389032
+      NESGalaxianSpritesAlpha_95: 1201374130
+      NESGalaxianSpritesAlpha_96: -1699242017
+      NESGalaxianSpritesAlpha_97: 1023652086
+      NESGalaxianSpritesAlpha_98: -825629716
+      NESGalaxianSpritesAlpha_99: -1595659835
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
